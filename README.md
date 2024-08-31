@@ -1,1 +1,1 @@
-<h1 align = "center"># WILDFIRE SMOKE DETECTION USING YOLOv8</h1>
+<h1 align = "center">WILDFIRE SMOKE DETECTION USING YOLOv8</h1>
