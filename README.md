@@ -12,7 +12,7 @@ This project leverages YOLOv8 (You Only Look Once) for detecting wildfire smoke 
 - License
 
 <h3>SNIPPETS</h3>
-<img src = C:\Users\arnav\OneDrive\Desktop\Screenshot 2024-08-31 202258.png>
+<img src = https://drive.google.com/file/d/1JeRBSn7M1BwfC9xipmccTMKPv0rNa26f/view?usp=sharing>
 
 
 <h3>Training Configuration</h3>
