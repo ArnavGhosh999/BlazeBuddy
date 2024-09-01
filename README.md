@@ -31,7 +31,7 @@ Data Path: data.yaml (path to the dataset configuration file)
 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/wildfire-smoke-detection.git
+git clone https://github.com/yourusername/Wildfire-Smoke-Detection-using-Yolov8.git
 cd wildfire-smoke-detection
 ```
 
